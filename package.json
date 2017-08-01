@@ -2,7 +2,7 @@
   "name": "react-minimal",
   "version": "0.1.0",
   "description": "the essence of a react component",
-  "repository": "https://github.com/dev-academy-challenges/react-minimal.git",
+  "repository": "https://github.com/emma-single/kooked-kameras",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server & webpack --watch"
