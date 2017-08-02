@@ -1,4 +1,4 @@
-# React minimal
+# Kooked Kameras
 
 As part of an introduction to React, this repo attempts to show React in a most basic form.
 
