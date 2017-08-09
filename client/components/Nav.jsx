@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-import { capitalize } from '../utilities'
 import nav from '../../data/nav'
 
 const navList = Object.keys(nav)
