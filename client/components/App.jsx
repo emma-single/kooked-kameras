@@ -20,6 +20,12 @@ const App = () => {
           <Route path='/' component={Nav} />
           <div className='content'>
             <Route exact path='/' component={Home} />
+            <Route path='/model' component={Model} />
+            <Route path='/model/:model' component={ModelsList} />
+            <Route path='/brands' component={Brands} />
+            <Route path='/blog' component={Blog} />
+            <Route path='/about' component={About} />
+            <Route path='/funfacts' component={Funfacts} />
             {/* <Route path='/list/:rank' component={RankListing} />
             <Route path='/rank/:rank/:name' component={Rank} />
             <Route path='/species/:id' component={Species} /> */}
